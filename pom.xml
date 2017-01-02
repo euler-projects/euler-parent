@@ -245,8 +245,8 @@
     </licenses>
 
     <scm>
-        <connection>https://github.com/euler-projects/euler-parent.git</connection>
-        <developerConnection>git@github.com:euler-projects/euler-parent.git</developerConnection>
+        <connection>scm:git:git://github.com/euler-projects/euler-parent.git</connection>
+        <developerConnection>scm:git:ssh://github.com:euler-projects/euler-parent.git</developerConnection>
         <url>https://github.com/euler-projects/euler-parent</url>
     </scm>
 
