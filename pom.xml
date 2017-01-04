@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.eulerframework</groupId>
     <artifactId>euler-parent</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>net.eulerframework:euler-parent</name>
-    <url>http://www.eulerproject.io</url>
+    <url>https://eulerproject.io</url>
     <description>Parent POM for all Euler projects.</description>
 
     <properties>
