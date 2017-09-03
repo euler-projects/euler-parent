@@ -15,7 +15,7 @@
     </properties>
 
     <profiles>
-        <!-- <profile>
+        <profile>
             <id>java8-doclint-disabled</id>
             <activation>
                 <jdk>[1.8,)</jdk>
@@ -23,7 +23,7 @@
             <properties>
                 <javadoc.opts>-Xdoclint:none</javadoc.opts>
             </properties>
-        </profile> -->
+        </profile>
 
         <profile>
             <id>sonatype-oss-release</id>
@@ -203,9 +203,9 @@
                         <goals>
                             <goal>jar</goal>
                         </goals>
-                        <!-- <configuration>
+                        <configuration>
                             <additionalparam>${javadoc.opts}</additionalparam>
-                        </configuration> -->
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
