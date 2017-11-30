@@ -239,4 +239,8 @@
         </developer>
     </developers>
 
+    <organization>
+        <name>Euler Project</name>
+        <url>https://eulerproject.io</url>
+    </organization>
 </project>
