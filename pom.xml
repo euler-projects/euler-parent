@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.eulerframework</groupId>
     <artifactId>euler-parent</artifactId>
-    <version>3</version>
+    <version>4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>euler-parent</name>
     <url>https://eulerproject.io</url>
