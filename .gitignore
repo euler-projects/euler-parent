@@ -9,3 +9,8 @@ buildNumber.properties
 .mvn/timing.properties
 .project
 .settings
+
+#IDEA
+.idea/
+*.iml
+.DS_Store
