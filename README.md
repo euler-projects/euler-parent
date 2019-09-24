@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.org/euler-projects/euler-parent.svg?branch=develop)](https://www.travis-ci.org/euler-projects/euler-parent)
 [![Build Status](https://ci.eulerproject.io/job/euler-parent-latest/badge/icon)](https://ci.eulerproject.io/job/euler-parent-latest)
 [![GitHub issues](https://img.shields.io/github/issues/euler-projects/euler-parent.svg)](https://github.com/euler-projects/euler-parent/issues)
 [![GitHub release](https://img.shields.io/github/release/euler-projects/euler-parent.svg)](https://github.com/euler-projects/euler-parent/releases)
