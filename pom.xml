@@ -267,11 +267,11 @@
             <id>eulerproject-repo-release</id>
             <distributionManagement>
                 <repository>
-                    <id>releases</id>
+                    <id>euler-repo-maven-releases</id>
                     <url>http://repo.eulerproject.io/repository/maven-releases/</url>
                 </repository>
                 <snapshotRepository>
-                    <id>snapshots</id>
+                    <id>euler-repo-maven-snapshots</id>
                     <url>http://repo.eulerproject.io/repository/maven-snapshots/</url>
                 </snapshotRepository>
             </distributionManagement>
