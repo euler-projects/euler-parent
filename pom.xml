@@ -26,7 +26,7 @@
         <maven-release-plugin.version>2.5.3</maven-release-plugin.version>
         <maven-resources-plugin.version>2.7</maven-resources-plugin.version>
         <maven-source-plugin.version>3.0.1</maven-source-plugin.version>
-        <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
+        <maven-javadoc-plugin.version>3.11.2</maven-javadoc-plugin.version>
 
         <build-helper-maven-plugin.version>3.0.0</build-helper-maven-plugin.version>
         <flatten-maven-plugin.version>1.1.0</flatten-maven-plugin.version>
@@ -289,11 +289,11 @@
             <distributionManagement>
                 <repository>
                     <id>euler-repo-maven-releases</id>
-                    <url>http://repo.eulerproject.io/repository/maven-releases/</url>
+                    <url>https://repo.eulerproject.io/repository/maven-releases/</url>
                 </repository>
                 <snapshotRepository>
                     <id>euler-repo-maven-snapshots</id>
-                    <url>http://repo.eulerproject.io/repository/maven-snapshots/</url>
+                    <url>https://repo.eulerproject.io/repository/maven-snapshots/</url>
                 </snapshotRepository>
             </distributionManagement>
         </profile>
