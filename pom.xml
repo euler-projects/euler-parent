@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.eulerframework</groupId>
     <artifactId>euler-parent</artifactId>
-    <version>6-SNAPSHOT</version>
+    <version>7-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>euler-parent</name>
     <url>https://eulerproject.io</url>
@@ -207,7 +207,7 @@
                             <goal>jar</goal>
                         </goals>
                         <configuration>
-                            <additionalparam>${javadoc.opts}</additionalparam>
+                            <additionalOptions>${javadoc.opts}</additionalOptions>
                         </configuration>
                     </execution>
                 </executions>
